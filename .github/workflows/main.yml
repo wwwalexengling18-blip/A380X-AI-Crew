@@ -42,4 +42,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: A380X_AI_Setup
-          path: Installateur/Output
+          path: Installer/Output
